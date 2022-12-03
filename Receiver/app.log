@@ -1,0 +1,47 @@
+2022-10-05 23:44:57,197 - basicLogger - INFO - Received event sellItem request with a trace id of 4f22f250-a2ba-40ad-8582-a2b887fea3f6
+2022-10-05 23:44:59,257 - basicLogger - INFO - Returned event sellItem response (Id:4f22f250-a2ba-40ad-8582-a2b887fea3f6) with status 400
+2022-10-05 23:45:28,619 - basicLogger - INFO - Received event numSales request with a trace id of 3e5e257b-16e5-4ce8-9583-530e99a281e9
+2022-10-05 23:46:44,044 - basicLogger - INFO - Received event sellItem request with a trace id of 9a8cd02b-9bda-4623-b45a-c84ef0dea0e0
+2022-10-05 23:46:46,113 - basicLogger - INFO - Returned event sellItem response (Id:9a8cd02b-9bda-4623-b45a-c84ef0dea0e0) with status 400
+2022-10-05 23:46:58,016 - basicLogger - INFO - Received event numSales request with a trace id of e79b43c2-4b3d-47e2-a90b-c9240be5f92e
+2022-10-05 23:47:00,058 - basicLogger - INFO - Returned event numSales response (Id:e79b43c2-4b3d-47e2-a90b-c9240be5f92e) with status 400
+2022-10-05 23:50:04,172 - basicLogger - INFO - Received event sellItem request with a trace id of 4b93e54a-5954-44bd-9944-2ad38b34a6d0
+2022-10-05 23:50:06,276 - basicLogger - INFO - Returned event sellItem response (Id:4b93e54a-5954-44bd-9944-2ad38b34a6d0) with status 400
+2022-10-05 23:50:09,144 - basicLogger - INFO - Received event numSales request with a trace id of c91fbf69-65dc-44ee-b32d-3d2f8b571b75
+2022-10-05 23:50:11,174 - basicLogger - INFO - Returned event numSales response (Id:c91fbf69-65dc-44ee-b32d-3d2f8b571b75) with status 400
+2022-10-05 23:51:12,100 - basicLogger - INFO - Received event numSales request with a trace id of bc4d785e-3224-441c-9e10-00ce0b255e8c
+2022-10-05 23:51:14,162 - basicLogger - INFO - Returned event numSales response (Id:bc4d785e-3224-441c-9e10-00ce0b255e8c) with status 400
+2022-10-05 23:51:16,044 - basicLogger - INFO - Received event sellItem request with a trace id of 0dcc0d79-df64-4c18-9a9a-27dc96603ab6
+2022-10-05 23:51:18,093 - basicLogger - INFO - Returned event sellItem response (Id:0dcc0d79-df64-4c18-9a9a-27dc96603ab6) with status 400
+2022-10-06 09:15:12,307 - basicLogger - INFO - Received event sellItem request with a trace id of 601a2128-455b-40c1-a273-b1bdaf727bce
+2022-10-06 09:15:14,367 - basicLogger - INFO - Returned event sellItem response (Id:601a2128-455b-40c1-a273-b1bdaf727bce) with status 400
+2022-10-06 09:15:21,414 - basicLogger - INFO - Received event numSales request with a trace id of b63382c2-93e7-402e-97d4-ba83a34b79de
+2022-10-06 09:15:23,458 - basicLogger - INFO - Returned event numSales response (Id:b63382c2-93e7-402e-97d4-ba83a34b79de) with status 400
+2022-10-06 09:16:49,074 - basicLogger - INFO - Received event sellItem request with a trace id of 2bb866be-3413-49f4-b4c0-ac7e0259e2ef
+2022-10-06 09:16:51,139 - basicLogger - INFO - Returned event sellItem response (Id:2bb866be-3413-49f4-b4c0-ac7e0259e2ef) with status 400
+2022-10-06 09:16:52,952 - basicLogger - INFO - Received event numSales request with a trace id of 9ff43991-6e65-4031-a6df-987ed8908783
+2022-10-06 09:16:54,987 - basicLogger - INFO - Returned event numSales response (Id:9ff43991-6e65-4031-a6df-987ed8908783) with status 400
+2022-10-06 09:19:00,890 - basicLogger - INFO - Received event sellItem request with a trace id of 7da75a22-0794-4516-8fd8-4596d9719755
+2022-10-06 09:19:02,938 - basicLogger - INFO - Returned event sellItem response (Id:7da75a22-0794-4516-8fd8-4596d9719755) with status 400
+2022-10-06 09:22:02,750 - basicLogger - INFO - Received event sellItem request with a trace id of 54eebee5-56b5-4582-9b8d-5ea5473801b4
+2022-10-06 09:22:07,202 - basicLogger - INFO - Returned event sellItem response (Id:54eebee5-56b5-4582-9b8d-5ea5473801b4) with status 500
+2022-10-06 09:22:13,418 - basicLogger - INFO - Received event numSales request with a trace id of 4f46c340-0c58-4cb2-b6d7-d4f1c65c94a6
+2022-10-06 09:22:17,628 - basicLogger - INFO - Returned event numSales response (Id:4f46c340-0c58-4cb2-b6d7-d4f1c65c94a6) with status 500
+2022-10-06 09:23:22,060 - basicLogger - INFO - Received event sellItem request with a trace id of 2b523cf2-2daf-44af-94f2-780196066ed5
+2022-10-06 09:23:26,285 - basicLogger - INFO - Returned event sellItem response (Id:2b523cf2-2daf-44af-94f2-780196066ed5) with status 500
+2022-10-06 09:27:13,006 - basicLogger - INFO - Received event sellItem request with a trace id of 918509f9-e864-4075-86ed-df38e4945d3e
+2022-10-06 09:27:17,161 - basicLogger - INFO - Returned event sellItem response (Id:918509f9-e864-4075-86ed-df38e4945d3e) with status 500
+2022-10-06 09:27:19,058 - basicLogger - INFO - Received event numSales request with a trace id of 0290c074-9df5-4952-abc5-b89116edb010
+2022-10-06 09:27:23,208 - basicLogger - INFO - Returned event numSales response (Id:0290c074-9df5-4952-abc5-b89116edb010) with status 500
+2022-10-06 09:37:28,008 - basicLogger - INFO - Received event sellItem request with a trace id of 7df4cd8a-34c2-47fb-9fca-da0eb7f35c73
+2022-10-06 09:37:30,112 - basicLogger - INFO - Returned event sellItem response (Id:7df4cd8a-34c2-47fb-9fca-da0eb7f35c73) with status 500
+2022-10-06 09:37:32,932 - basicLogger - INFO - Received event numSales request with a trace id of db84e55a-a10b-44ac-9b63-0b45852598bf
+2022-10-06 09:37:35,031 - basicLogger - INFO - Returned event numSales response (Id:db84e55a-a10b-44ac-9b63-0b45852598bf) with status 500
+2022-10-06 09:41:29,895 - basicLogger - INFO - Received event sellItem request with a trace id of 814c8590-0b71-4e8a-95e0-94eec00e5840
+2022-10-06 09:41:32,037 - basicLogger - INFO - Returned event sellItem response (Id:814c8590-0b71-4e8a-95e0-94eec00e5840) with status 201
+2022-10-06 09:41:33,937 - basicLogger - INFO - Received event numSales request with a trace id of e4efdb3a-81cb-4688-9062-4140c382e058
+2022-10-06 09:41:36,017 - basicLogger - INFO - Returned event numSales response (Id:e4efdb3a-81cb-4688-9062-4140c382e058) with status 201
+2022-11-10 10:14:06,778 - basicLogger - INFO - Received event sellItem request with a trace id of 7b9edc43-8cf5-419e-8a2e-aa5b2d884736
+2022-11-10 10:14:34,099 - basicLogger - INFO - Received event numSales request with a trace id of 1e2fe222-a311-48ee-b18b-6afe5ca30c7c
+2022-11-17 11:33:30,333 - basicLogger - INFO - Received event sellItem request with a trace id of 4fb936fb-1e25-4ef7-92bb-1e6ddbdbc1ae
+2022-11-17 11:33:39,632 - basicLogger - INFO - Received event numSales request with a trace id of 9051619d-004a-464d-a280-33fba0493eed

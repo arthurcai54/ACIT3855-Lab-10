@@ -1,0 +1,71 @@
+---
+openapi: 3.0.0
+info:
+  title: Amazon API
+  description: This is an Amazon API
+  contact:
+    email: acai10@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+servers:
+- url: http://localhost:8090
+tags:
+- name: amazon
+  description: amazon website
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets sold item and number of sales recorded statistics
+      responses:
+        '200':
+          description: Successfully returned a list of sold item events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - highest_price
+      - maximum_rating
+      - max_num_times_bought_before
+      - max_profit
+      - max_num_vans_needed
+      - last_updated
+      properties:  
+        highest_price:
+          type: number
+          example: 1000.00
+        maximum_rating:
+          type: integer
+          example: 5
+        max_num_times_bought_before:
+          type: integer
+          example: 180
+        # max_profit:
+        #   type: number
+        #   example: 1560.00
+        max_num_vans_needed:
+          type: integer
+          example: 250
+        last_updated:
+          type: string
+          format: date
+          example: 2022-10-31T10:10:10.010Z
+      type: object

@@ -1,0 +1,994 @@
+2022-11-10 12:40:53,361 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:40:58,355 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:03,369 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:08,357 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:13,354 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:30,335 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:35,339 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:40,330 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:45,325 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:50,325 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:41:55,333 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:00,335 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:05,324 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:10,332 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:15,338 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:20,396 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:25,367 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:30,345 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:35,352 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:40,329 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:45,325 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:50,322 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:42:55,336 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:00,335 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:05,325 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:10,324 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:15,342 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:20,328 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:25,342 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:30,332 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:35,325 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:40,331 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:45,339 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:50,338 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:43:55,340 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:44:05,217 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:44:10,218 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:44:15,221 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:44:20,216 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:44:25,222 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:44:47,756 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:44:52,772 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:44:57,757 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:45:02,757 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:45:07,769 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:45:12,755 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:45:17,762 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:13,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:13,231 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:18,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:18,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:23,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:23,210 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:28,203 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:28,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:33,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:33,205 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:38,199 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:38,208 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:43,207 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:43,213 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:48,199 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:48,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:53,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:53,210 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:46:58,211 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:46:58,211 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:03,213 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:03,220 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:08,208 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:08,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:13,199 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:13,199 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:18,207 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:18,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:23,216 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:23,217 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:28,262 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:28,266 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:33,235 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:33,235 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:38,214 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:38,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:43,208 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:43,208 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:48,204 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:48,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:53,213 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:53,213 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:47:58,215 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:47:58,215 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:03,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:03,217 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:08,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:08,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:13,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:13,210 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:18,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:18,205 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:23,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:23,212 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:28,208 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:28,208 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:33,214 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:33,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:38,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:38,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:43,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:43,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:48,217 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:48,217 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:53,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:53,210 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:48:58,245 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:48:58,257 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:49:03,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:49:03,218 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:49:08,213 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:49:08,216 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:49:13,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:49:13,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:49:18,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:49:18,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:49:23,217 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:49:23,217 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:49:28,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:49:28,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:49:33,218 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:49:33,218 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:54:43,149 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:54:43,162 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:54:48,155 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:54:48,155 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:54:53,148 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:54:53,148 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:54:58,157 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:54:58,159 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:03,145 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:03,152 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:08,166 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:08,166 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:13,145 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:13,147 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:18,153 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:18,153 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:23,189 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:23,190 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:28,142 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:28,146 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:33,157 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:33,159 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:38,143 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:38,143 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:55:56,765 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:55:56,778 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:56:01,778 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:56:01,778 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:56:06,760 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:56:06,768 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:56:48,204 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:56:48,215 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:56:53,200 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:56:53,203 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:56:58,211 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:56:58,211 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:03,211 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:03,211 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:08,204 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:08,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:13,207 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:13,207 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:18,211 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:18,211 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:23,200 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:23,200 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:28,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:28,205 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:33,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:33,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:38,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:38,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:43,202 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:43,210 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:48,201 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:48,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:53,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:53,218 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:57:58,212 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:57:58,215 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:03,207 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:03,207 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:08,200 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:08,200 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:13,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:13,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:18,203 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:18,203 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:23,202 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:23,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:28,203 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:28,203 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:33,198 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:33,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:38,214 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:38,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:43,203 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:43,203 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:48,215 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:48,222 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:53,213 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:53,218 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:58:58,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:58:58,207 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:03,212 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:03,212 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:08,195 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:08,203 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:13,208 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:13,208 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:18,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:18,216 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:23,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:23,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:28,207 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:28,207 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:33,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:33,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:38,200 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:38,200 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:43,204 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:43,204 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:48,207 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:48,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:53,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:53,205 - basicLogger - INFO - Statistics do not exist
+2022-11-10 12:59:58,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 12:59:58,205 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:03,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:03,218 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:08,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:08,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:13,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:13,205 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:18,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:18,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:23,202 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:23,202 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:28,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:28,213 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:33,213 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:33,213 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:38,216 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:38,216 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:43,214 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:43,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:48,202 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:48,202 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:53,208 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:53,208 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:00:58,205 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:00:58,213 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:03,198 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:03,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:08,213 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:08,213 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:13,208 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:13,208 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:18,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:18,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:23,199 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:23,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:28,211 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:28,211 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:33,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:33,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:38,216 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:38,216 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:43,203 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:43,207 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:48,199 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:48,206 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:53,212 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:53,217 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:01:58,211 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:01:58,211 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:02:03,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:02:03,207 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:02:08,211 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:02:08,211 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:02:13,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:02:13,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:02:18,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:02:18,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:02:23,214 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:02:23,214 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:02:28,210 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:02:28,210 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:02:33,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:02:33,209 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:03:36,688 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:03:36,699 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:03:41,696 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:03:41,696 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:13:25,876 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:13:25,899 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:13:30,878 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:13:30,878 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:21:45,069 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:21:45,082 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:21:50,059 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:21:50,060 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:21:55,062 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:21:55,065 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:22:00,077 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:22:00,082 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:22:05,068 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:22:05,070 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:22:10,065 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:22:10,067 - basicLogger - INFO - Statistics do not exist
+2022-11-10 13:22:15,066 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 13:22:15,070 - basicLogger - INFO - Statistics do not exist
+2022-11-10 14:17:24,817 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 14:17:24,834 - basicLogger - INFO - Statistics do not exist
+2022-11-10 16:15:02,942 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:15:02,992 - basicLogger - INFO - Statistics do not exist
+2022-11-10 16:15:07,942 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:15:07,942 - basicLogger - INFO - Statistics do not exist
+2022-11-10 16:19:44,329 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:19:44,349 - basicLogger - INFO - Statistics do not exist
+2022-11-10 16:19:49,325 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:19:49,326 - basicLogger - INFO - Statistics do not exist
+2022-11-10 16:26:00,457 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:26:05,439 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:26:39,351 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:26:39,365 - basicLogger - INFO - Statistics do not exist
+2022-11-10 16:26:44,354 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:26:44,356 - basicLogger - INFO - Statistics do not exist
+2022-11-10 16:39:55,527 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:39:55,555 - basicLogger - INFO - Statistics do not exist
+2022-11-10 16:40:00,528 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 16:40:00,528 - basicLogger - INFO - Statistics do not exist
+2022-11-10 17:13:18,590 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 17:13:18,602 - basicLogger - INFO - Statistics do not exist
+2022-11-10 17:13:23,596 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 17:13:23,596 - basicLogger - INFO - Statistics do not exist
+2022-11-10 17:13:28,580 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 17:13:28,587 - basicLogger - INFO - Statistics do not exist
+2022-11-10 17:13:33,591 - basicLogger - INFO - Start Periodic Processing
+2022-11-10 17:13:33,594 - basicLogger - INFO - Statistics do not exist
+2022-11-12 14:48:41,079 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 14:48:41,096 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:08:22,285 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:08:22,316 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:08:27,295 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:08:27,297 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:10:28,012 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:10:28,030 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:10:33,016 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:10:33,019 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:10:38,018 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:10:38,020 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:11:27,873 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:11:27,881 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:11:32,866 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:11:32,869 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:12:22,699 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:12:22,708 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:12:37,895 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:12:37,906 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:12:42,887 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:12:42,889 - basicLogger - INFO - Statistics do not exist
+2022-11-12 15:12:47,889 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 15:12:47,894 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:08:00,430 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:08:00,462 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:08:05,422 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:08:05,427 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:09:00,350 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:09:00,365 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:22:37,729 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:22:37,783 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:22:42,753 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:22:42,757 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:22:47,750 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:22:47,763 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:22:52,740 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:22:52,745 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:33:41,496 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:33:41,523 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:37:19,535 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:37:19,552 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:37:24,545 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:37:24,551 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:37:29,546 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:37:29,554 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:37:34,548 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:37:34,555 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:40:52,272 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:40:52,297 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:40:57,269 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:40:57,278 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:42:16,130 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:42:16,150 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:42:18,241 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:42:18,243 - basicLogger - ERROR - No response
+2022-11-12 17:42:21,146 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:42:21,151 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:42:23,223 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:42:23,224 - basicLogger - ERROR - No response
+2022-11-12 17:44:17,216 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:44:17,233 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:44:19,307 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:44:19,309 - basicLogger - ERROR - No response
+2022-11-12 17:44:22,220 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:44:22,223 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:44:24,265 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:44:24,266 - basicLogger - ERROR - No response
+2022-11-12 17:46:10,292 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:46:10,311 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:46:12,413 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:46:12,414 - basicLogger - ERROR - No response
+2022-11-12 17:46:15,292 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:46:15,299 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:46:17,366 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:46:17,367 - basicLogger - ERROR - No response
+2022-11-12 17:46:52,684 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:46:52,711 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:46:54,795 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:46:54,797 - basicLogger - ERROR - No response
+2022-11-12 17:46:56,907 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:46:56,908 - basicLogger - ERROR - No response
+2022-11-12 17:46:57,686 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:46:57,691 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:46:59,759 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:46:59,760 - basicLogger - ERROR - No response
+2022-11-12 17:47:01,874 - basicLogger - INFO - Number of events received: <Response [404]>
+2022-11-12 17:47:01,877 - basicLogger - ERROR - No response
+2022-11-12 17:49:38,893 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:49:38,913 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:58:02,599 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:58:02,611 - basicLogger - INFO - Statistics do not exist
+2022-11-12 17:58:07,604 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 17:58:07,609 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:01:52,669 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:01:52,677 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:01:57,674 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:01:57,679 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:08:15,049 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:08:15,057 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:17:41,976 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:17:41,986 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:17:46,985 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:17:46,987 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:18:50,148 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:18:50,158 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:21:34,255 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:21:34,266 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:23:08,113 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:23:08,121 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:23:13,111 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:23:13,116 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:23:55,544 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:23:55,551 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:24:00,550 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:24:00,552 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:24:05,539 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:24:05,544 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:35:10,823 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:35:10,834 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:36:10,721 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:36:10,728 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:36:15,725 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:36:15,730 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:36:52,312 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:36:52,321 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:36:57,314 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:36:57,317 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:37:14,368 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:37:14,376 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:38:46,343 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:38:46,354 - basicLogger - INFO - Statistics do not exist
+2022-11-12 18:38:51,339 - basicLogger - INFO - Start Periodic Processing
+2022-11-12 18:38:51,341 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:18:21,818 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:18:21,841 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:18:26,827 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:18:26,830 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:19:05,841 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:19:05,855 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:19:10,853 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:19:10,855 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:19:44,804 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:19:44,815 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:19:49,817 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:19:49,822 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:20:03,974 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:20:03,984 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:20:08,978 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:20:08,983 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:27:40,031 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:27:40,038 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:27:45,032 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:27:45,035 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:28:30,062 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:28:30,079 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:48:11,703 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:48:11,720 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:48:55,719 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:48:55,729 - basicLogger - INFO - Statistics do not exist
+2022-11-14 15:49:51,677 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 15:49:51,688 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:20:09,190 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:20:09,199 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:20:14,195 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:20:14,199 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:20:19,184 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:20:19,188 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:20:24,198 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:20:24,203 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:20:29,185 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:20:29,188 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:22:15,852 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:22:15,862 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:22:20,854 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:22:20,857 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:22:41,545 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:22:41,555 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:22:46,546 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:22:46,551 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:22:51,542 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:22:51,545 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:23:01,751 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:23:01,761 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:23:06,752 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:23:06,754 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:24:56,269 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:24:56,277 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:25:01,269 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:25:01,272 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:25:06,260 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:25:06,264 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:25:11,273 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:25:11,277 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:25:16,265 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:25:16,269 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:25:21,267 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:25:21,270 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:25:26,270 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:25:26,275 - basicLogger - INFO - Statistics do not exist
+2022-11-14 17:25:36,336 - basicLogger - INFO - Start Periodic Processing
+2022-11-14 17:25:36,346 - basicLogger - INFO - Statistics do not exist
+2022-11-17 08:12:12,207 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:12:12,256 - basicLogger - INFO - Statistics do not exist
+2022-11-17 08:12:17,206 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:12:17,211 - basicLogger - INFO - Statistics do not exist
+2022-11-17 08:24:39,650 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:24:44,653 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:26:10,510 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:26:15,516 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:26:20,516 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:26:47,891 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:27:24,607 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:32:42,848 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:32:42,871 - basicLogger - INFO - Statistics do not exist
+2022-11-17 08:40:11,690 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:40:16,687 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:40:21,700 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:43:46,230 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:43:48,296 - basicLogger - INFO - Number of events received: 4
+2022-11-17 08:43:48,296 - basicLogger - ERROR - No response
+2022-11-17 08:43:51,231 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:43:53,278 - basicLogger - INFO - Number of events received: 4
+2022-11-17 08:43:53,278 - basicLogger - ERROR - No response
+2022-11-17 08:45:34,419 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 08:45:36,481 - basicLogger - INFO - Number of events received: 4
+2022-11-17 08:45:36,482 - basicLogger - ERROR - No response
+2022-11-17 09:38:05,872 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 09:38:07,965 - basicLogger - INFO - Number of events received: 4
+2022-11-17 09:38:07,965 - basicLogger - ERROR - No response
+2022-11-17 09:38:10,888 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 09:38:12,936 - basicLogger - INFO - Number of events received: 4
+2022-11-17 09:38:12,936 - basicLogger - ERROR - No response
+2022-11-17 09:47:27,302 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 09:47:32,304 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 09:48:43,421 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 09:48:45,492 - basicLogger - INFO - Number of events received: 4
+2022-11-17 09:48:45,492 - basicLogger - ERROR - No response
+2022-11-17 10:02:49,879 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:02:51,969 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:02:51,971 - basicLogger - ERROR - No response
+2022-11-17 10:02:54,870 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:02:56,958 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:02:56,960 - basicLogger - ERROR - No response
+2022-11-17 10:03:42,868 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:03:45,061 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:03:45,061 - basicLogger - ERROR - No response
+2022-11-17 10:05:03,057 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:05:05,169 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:05:05,172 - basicLogger - ERROR - No response
+2022-11-17 10:05:08,066 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:05:10,136 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:05:10,139 - basicLogger - ERROR - No response
+2022-11-17 10:06:54,677 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:06:56,800 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:06:56,801 - basicLogger - ERROR - No response
+2022-11-17 10:09:42,945 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:09:45,016 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:09:45,016 - basicLogger - ERROR - No response
+2022-11-17 10:10:17,925 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:10:20,022 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:10:20,022 - basicLogger - ERROR - No response
+2022-11-17 10:12:15,288 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:12:17,357 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:12:17,357 - basicLogger - ERROR - No response
+2022-11-17 10:13:14,887 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:13:16,955 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:13:16,956 - basicLogger - ERROR - No response
+2022-11-17 10:14:39,617 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:14:41,682 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:14:41,682 - basicLogger - ERROR - No response
+2022-11-17 10:23:58,890 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:24:46,080 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:25:28,002 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:27:29,822 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:27:31,932 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:27:31,932 - basicLogger - ERROR - No response
+2022-11-17 10:29:03,513 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:29:05,590 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:29:05,590 - basicLogger - ERROR - No response
+2022-11-17 10:29:08,506 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:29:10,546 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:29:10,546 - basicLogger - ERROR - No response
+2022-11-17 10:29:40,774 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:29:42,863 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:29:42,865 - basicLogger - ERROR - No response
+2022-11-17 10:30:59,209 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:31:01,311 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:31:01,312 - basicLogger - ERROR - No response
+2022-11-17 10:35:45,266 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:35:47,380 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:35:47,384 - basicLogger - ERROR - No response
+2022-11-17 10:36:01,316 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:36:03,424 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:36:03,424 - basicLogger - ERROR - No response
+2022-11-17 10:37:12,546 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:37:14,651 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:37:14,652 - basicLogger - ERROR - No response
+2022-11-17 10:37:17,544 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:37:19,610 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:37:19,612 - basicLogger - ERROR - No response
+2022-11-17 10:39:06,796 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:39:34,689 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:39:36,790 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:39:36,791 - basicLogger - ERROR - No response
+2022-11-17 10:40:35,402 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:40:37,499 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:40:37,499 - basicLogger - ERROR - No response
+2022-11-17 10:41:15,857 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:41:17,953 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:41:17,956 - basicLogger - ERROR - No response
+2022-11-17 10:41:20,864 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:41:22,924 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:41:22,925 - basicLogger - ERROR - No response
+2022-11-17 10:41:53,944 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:41:56,051 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:41:56,051 - basicLogger - ERROR - No response
+2022-11-17 10:42:21,229 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:42:23,319 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:42:23,319 - basicLogger - ERROR - No response
+2022-11-17 10:42:23,319 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 10:42:25,378 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:42:25,380 - basicLogger - ERROR - No response
+2022-11-17 10:42:26,218 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:42:28,279 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:42:28,280 - basicLogger - ERROR - No response
+2022-11-17 10:42:28,280 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 10:42:30,336 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:42:30,338 - basicLogger - ERROR - No response
+2022-11-17 10:43:24,878 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:43:26,979 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:43:26,979 - basicLogger - ERROR - No response
+2022-11-17 10:43:26,982 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 10:43:29,058 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:43:29,060 - basicLogger - ERROR - No response
+2022-11-17 10:43:29,876 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:43:31,959 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:43:31,960 - basicLogger - ERROR - No response
+2022-11-17 10:43:31,960 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 10:43:34,014 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:43:34,015 - basicLogger - ERROR - No response
+2022-11-17 10:47:20,738 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:47:52,660 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 10:47:54,784 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:47:54,784 - basicLogger - ERROR - No response
+2022-11-17 10:47:54,784 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 10:47:56,842 - basicLogger - INFO - Number of events received: 4
+2022-11-17 10:47:56,843 - basicLogger - ERROR - No response
+2022-11-17 11:16:18,495 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:16:20,608 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:20,610 - basicLogger - ERROR - No response
+2022-11-17 11:16:20,611 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:16:22,670 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:22,672 - basicLogger - ERROR - No response
+2022-11-17 11:16:23,499 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:16:25,569 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:25,569 - basicLogger - ERROR - No response
+2022-11-17 11:16:25,569 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:16:27,622 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:27,623 - basicLogger - ERROR - No response
+2022-11-17 11:16:28,496 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:16:30,557 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:30,558 - basicLogger - ERROR - No response
+2022-11-17 11:16:30,558 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:16:32,639 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:32,639 - basicLogger - ERROR - No response
+2022-11-17 11:16:33,497 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:16:35,562 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:35,565 - basicLogger - ERROR - No response
+2022-11-17 11:16:35,565 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:16:37,642 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:37,642 - basicLogger - ERROR - No response
+2022-11-17 11:16:38,508 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:16:40,569 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:40,570 - basicLogger - ERROR - No response
+2022-11-17 11:16:40,571 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:16:42,626 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:42,626 - basicLogger - ERROR - No response
+2022-11-17 11:16:43,503 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:16:45,587 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:45,590 - basicLogger - ERROR - No response
+2022-11-17 11:16:45,590 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:16:47,666 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:47,667 - basicLogger - ERROR - No response
+2022-11-17 11:16:48,497 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:16:50,553 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:50,553 - basicLogger - ERROR - No response
+2022-11-17 11:16:50,553 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:16:52,619 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:52,621 - basicLogger - ERROR - No response
+2022-11-17 11:16:53,494 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:16:55,584 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:55,584 - basicLogger - ERROR - No response
+2022-11-17 11:16:55,584 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:16:57,666 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:16:57,667 - basicLogger - ERROR - No response
+2022-11-17 11:16:58,502 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:00,571 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:00,572 - basicLogger - ERROR - No response
+2022-11-17 11:17:00,572 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:17:02,635 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:02,636 - basicLogger - ERROR - No response
+2022-11-17 11:17:03,507 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:08,498 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:13,501 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:17,819 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:17,819 - basicLogger - ERROR - No response
+2022-11-17 11:17:17,820 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:17:22,011 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:22,012 - basicLogger - ERROR - No response
+2022-11-17 11:17:23,497 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:27,679 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:27,681 - basicLogger - ERROR - No response
+2022-11-17 11:17:27,681 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:17:33,512 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:38,498 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:43,491 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:45,679 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:45,679 - basicLogger - ERROR - No response
+2022-11-17 11:17:45,679 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:17:47,804 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:47,808 - basicLogger - ERROR - No response
+2022-11-17 11:17:48,503 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:50,627 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:50,627 - basicLogger - ERROR - No response
+2022-11-17 11:17:50,627 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:17:52,791 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:52,793 - basicLogger - ERROR - No response
+2022-11-17 11:17:53,510 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:17:55,614 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:55,614 - basicLogger - ERROR - No response
+2022-11-17 11:17:55,614 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:17:57,729 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:17:57,730 - basicLogger - ERROR - No response
+2022-11-17 11:17:58,497 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:00,641 - basicLogger - INFO - Number of events received: 4
+2022-11-17 11:18:00,641 - basicLogger - ERROR - No response
+2022-11-17 11:18:00,645 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:18:08,509 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:13,497 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:18,508 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:23,504 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:28,509 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:33,495 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:38,505 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:43,515 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:48,510 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:53,493 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:18:55,962 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:18:55,962 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:18:58,030 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:18:58,496 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:00,559 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:00,560 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:02,621 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:03,499 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:05,581 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:05,583 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:07,651 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:08,495 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:10,567 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:10,570 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:12,630 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:13,497 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:15,606 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:15,607 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:17,676 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:18,499 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:20,571 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:20,574 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:22,649 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:23,498 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:25,558 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:25,561 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:27,639 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:28,506 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:30,590 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:30,593 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:32,664 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:33,512 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:35,580 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:35,580 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:37,662 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:38,498 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:40,553 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:40,553 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:42,612 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:43,504 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:45,579 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:45,580 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:47,649 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:48,500 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:50,571 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:50,572 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:52,621 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:53,510 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:19:55,574 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:55,577 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:19:57,667 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:19:58,499 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:20:00,578 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:20:00,578 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-17 11:20:02,656 - basicLogger - INFO - Number of events received: 0
+2022-11-17 11:20:03,508 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:20:08,495 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:20:13,507 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:20:18,510 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:20:23,497 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:20:28,497 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:20:33,508 - basicLogger - INFO - Start Periodic Processing
+2022-11-17 11:20:38,505 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:51:32,801 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:51:37,805 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:52:53,386 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:52:57,665 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:52:57,666 - basicLogger - ERROR - No response
+2022-11-19 14:52:57,667 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:53:01,771 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:53:01,784 - basicLogger - ERROR - No response
+2022-11-19 14:53:36,639 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:53:40,775 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:53:40,775 - basicLogger - ERROR - No response
+2022-11-19 14:53:40,776 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:53:44,858 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:53:44,859 - basicLogger - ERROR - No response
+2022-11-19 14:53:44,860 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 14:53:46,634 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:53:50,754 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:53:50,755 - basicLogger - ERROR - No response
+2022-11-19 14:53:50,756 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:53:54,895 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:53:54,895 - basicLogger - ERROR - No response
+2022-11-19 14:53:54,895 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 14:55:29,143 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:55:33,254 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:55:33,254 - basicLogger - ERROR - No response
+2022-11-19 14:55:33,254 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:55:37,378 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:55:37,378 - basicLogger - ERROR - No response
+2022-11-19 14:55:37,378 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 14:55:37,379 - basicLogger - INFO - End Periodic Processing
+2022-11-19 14:55:39,152 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:55:43,272 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:55:43,272 - basicLogger - ERROR - No response
+2022-11-19 14:55:43,273 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:55:47,391 - basicLogger - INFO - Number of events received: 4
+2022-11-19 14:55:47,391 - basicLogger - ERROR - No response
+2022-11-19 14:55:47,391 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 14:55:47,392 - basicLogger - INFO - End Periodic Processing
+2022-11-19 14:56:38,511 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:56:40,871 - basicLogger - INFO - Number of events received: 0
+2022-11-19 14:56:40,872 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:56:42,972 - basicLogger - INFO - Number of events received: 0
+2022-11-19 14:56:42,972 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 14:56:42,973 - basicLogger - INFO - End Periodic Processing
+2022-11-19 14:56:43,525 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:56:45,590 - basicLogger - INFO - Number of events received: 0
+2022-11-19 14:56:45,591 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:56:47,639 - basicLogger - INFO - Number of events received: 0
+2022-11-19 14:56:47,639 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 14:56:47,640 - basicLogger - INFO - End Periodic Processing
+2022-11-19 14:58:01,117 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:58:03,184 - basicLogger - INFO - Number of events received: 0
+2022-11-19 14:58:03,185 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:58:05,267 - basicLogger - INFO - Number of events received: 0
+2022-11-19 14:58:05,267 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 14:58:05,267 - basicLogger - INFO - End Periodic Processing
+2022-11-19 14:58:06,114 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 14:58:08,168 - basicLogger - INFO - Number of events received: 0
+2022-11-19 14:58:08,168 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 14:58:10,211 - basicLogger - INFO - Number of events received: 0
+2022-11-19 14:58:10,212 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 14:58:10,212 - basicLogger - INFO - End Periodic Processing
+2022-11-19 15:01:40,664 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 15:01:45,669 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 15:02:09,576 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 15:02:14,576 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 15:02:25,601 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 15:02:27,773 - basicLogger - INFO - Number of events received: 4
+2022-11-19 15:02:27,773 - basicLogger - ERROR - No response
+2022-11-19 15:02:27,774 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 15:02:31,889 - basicLogger - INFO - Number of events received: 4
+2022-11-19 15:02:31,889 - basicLogger - ERROR - No response
+2022-11-19 15:02:31,889 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 15:02:31,890 - basicLogger - INFO - End Periodic Processing
+2022-11-19 15:02:35,606 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 15:02:39,722 - basicLogger - INFO - Number of events received: 4
+2022-11-19 15:02:39,722 - basicLogger - ERROR - No response
+2022-11-19 15:02:39,722 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 15:02:43,821 - basicLogger - INFO - Number of events received: 4
+2022-11-19 15:02:43,821 - basicLogger - ERROR - No response
+2022-11-19 15:02:43,822 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 15:02:43,822 - basicLogger - INFO - End Periodic Processing
+2022-11-19 19:12:20,589 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 19:12:22,849 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:22,850 - basicLogger - ERROR - No response
+2022-11-19 19:12:22,850 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 19:12:24,921 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:24,921 - basicLogger - ERROR - No response
+2022-11-19 19:12:24,922 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 19:12:24,922 - basicLogger - INFO - End Periodic Processing
+2022-11-19 19:12:25,597 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 19:12:27,661 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:27,661 - basicLogger - ERROR - No response
+2022-11-19 19:12:27,662 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 19:12:29,714 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:29,714 - basicLogger - ERROR - No response
+2022-11-19 19:12:29,714 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 19:12:29,715 - basicLogger - INFO - End Periodic Processing
+2022-11-19 19:12:30,595 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 19:12:32,661 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:32,662 - basicLogger - ERROR - No response
+2022-11-19 19:12:32,662 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 19:12:34,742 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:34,743 - basicLogger - ERROR - No response
+2022-11-19 19:12:34,743 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 19:12:34,743 - basicLogger - INFO - End Periodic Processing
+2022-11-19 19:12:35,594 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 19:12:37,666 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:37,666 - basicLogger - ERROR - No response
+2022-11-19 19:12:37,667 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 19:12:39,719 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:39,720 - basicLogger - ERROR - No response
+2022-11-19 19:12:39,720 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 19:12:39,720 - basicLogger - INFO - End Periodic Processing
+2022-11-19 19:12:40,589 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 19:12:42,645 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:42,645 - basicLogger - ERROR - No response
+2022-11-19 19:12:42,646 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 19:12:44,715 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:44,716 - basicLogger - ERROR - No response
+2022-11-19 19:12:44,716 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 19:12:44,717 - basicLogger - INFO - End Periodic Processing
+2022-11-19 19:12:45,587 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 19:12:47,639 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:47,639 - basicLogger - ERROR - No response
+2022-11-19 19:12:47,639 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10
+2022-11-19 19:12:49,701 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:49,701 - basicLogger - ERROR - No response
+2022-11-19 19:12:49,701 - basicLogger - DEBUG - Updated statistics for maximum number vans needed: 100
+2022-11-19 19:12:49,703 - basicLogger - INFO - End Periodic Processing
+2022-11-19 19:12:50,592 - basicLogger - INFO - Start Periodic Processing
+2022-11-19 19:12:52,657 - basicLogger - INFO - Number of events received: 4
+2022-11-19 19:12:52,657 - basicLogger - ERROR - No response
+2022-11-19 19:12:52,658 - basicLogger - DEBUG - Updated statistics for maximum number of times bought before: 10

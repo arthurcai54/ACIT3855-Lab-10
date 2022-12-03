@@ -1,0 +1,111 @@
+---
+openapi: 3.0.0
+info:
+  title: Amazon API
+  description: This is an Amazon API
+  contact:
+    email: acai10@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+servers:
+- url: http://localhost:8080
+tags:
+- name: amazon
+  description: amazon website
+paths:
+  /sell:
+    post:
+      tags:
+      - amazon
+      summary: selling an inventory item
+      description: sell an item from the system
+      operationId: app.sellItem
+      requestBody:
+        description: selling an item
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SoldItem'
+      responses:
+        "201":
+          description: item sold
+        "400":
+          description: invalid input, object invalid
+  /numsales:
+    post:
+      tags:
+      - amazon
+      summary: number of sales
+      description: number of sales tracked by the system
+      operationId: app.sales
+      requestBody:
+        description: tracking the number of sales
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/NumSales'
+      responses:
+        "201":
+          description: how much money made
+        "400":
+          description: invalid input, object invalid
+components:
+  schemas:
+    SoldItem:
+      required:
+      - item_id
+      - product_name
+      - price
+      - manufacturer
+      - rating      
+      - num_times_bought_before
+      - date_sold
+      type: object
+      properties:
+        item_id:
+          type: integer
+          format: uuid
+        product_name:
+          type: string
+          example: Widget Adapter
+        price:
+          type: number
+          example: 39.99
+        manufacturer:
+          type: string
+          example: hewlett-packard
+        rating:
+          type: integer
+          example: 5
+        num_times_bought_before:
+          type: integer
+          example: 266
+        date_sold:
+          format: date-time
+          example: 2022-09-08T10:10:10.010Z
+    NumSales:
+      required:
+      - sale_id
+      - profits
+      - num_items_sold      
+      - num_vans_needed      
+      - average_rating
+      type: object
+      properties:
+        sale_id:
+          type: integer
+          format: uuid
+        profits:
+          type: number
+          example: 1000.00
+        num_items_sold:
+          type: integer
+          example: 5
+        num_vans_needed:
+          type: integer
+          example: 76
+        average_rating:
+          type: number
+          example: 3.5

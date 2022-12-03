@@ -1,0 +1,155 @@
+openapi: 3.0.0 
+info: 
+  description: This API provides audit info 
+  version: "1.0.0" 
+  title: Audit API 
+  contact: 
+    email: acai10@bcit.ca
+paths: 
+  /sell: 
+    get:
+      tags: 
+        - amazon 
+      summary: gets sold item information
+      operationId: app.getSellItemInfo
+      description: Reveals information on an item that was sold
+      parameters:
+        - name: index
+          in: query
+          description: Gets the item sold at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        "200":
+          description: item information successfully revealed
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/SellItem'
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /numsales:
+    get:
+      tags:
+        - amazon
+      summary: gets information on the number of sales
+      operationId: app.getNumSalesInfo
+      description: Reveals information on the number of sales made
+      parameters:
+        - name: index
+          in: query
+          description: Gets the sales info at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        "200":
+          description: information on number of sales successfully revealed
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/NumSales'
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    SellItem:
+      required:
+      - item_id
+      - product_name
+      - price
+      - manufacturer
+      - rating      
+      - num_times_bought_before
+      - date_sold
+      - trace_id
+      type: object
+      properties:
+        item_id:
+          type: integer
+          format: uuid
+        product_name:
+          type: string
+          example: Widget Adapter
+        price:
+          type: number
+          example: 39.99
+        manufacturer:
+          type: string
+          example: hewlett-packard
+        rating:
+          type: integer
+          example: 5
+        num_times_bought_before:
+          type: integer
+          example: 266
+        date_sold:
+          format: date-time
+          example: 2022-09-08T10:10:10.010Z
+        trace_id:
+          format: string
+    NumSales:
+      required:
+      - sale_id
+      - profits
+      - num_items_sold      
+      - num_vans_needed      
+      - average_rating
+      - trace_id
+      type: object
+      properties:
+        sale_id:
+          type: integer
+          format: uuid
+        profits:
+          type: number
+          example: 1000.00
+        num_items_sold:
+          type: integer
+          example: 5
+        num_vans_needed:
+          type: integer
+          example: 76
+        average_rating:
+          type: number
+          example: 3.5
+        trace_id:
+          type: string
+          
