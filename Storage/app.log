@@ -1,0 +1,24 @@
+2022-10-06 09:41:32,032 - basicLogger - INFO - Stored event sellItem reqeuest with a trace id of 814c8590-0b71-4e8a-95e0-94eec00e5840
+2022-10-06 09:41:36,010 - basicLogger - INFO - Stored event numSales reqeuest with a trace id of e4efdb3a-81cb-4688-9062-4140c382e058
+2022-11-03 13:00:32,280 - basicLogger - INFO - Connecting to DB, Hostname:54.162.79.180, Port:3306
+2022-11-03 13:00:32,632 - basicLogger - INFO - Connecting to DB, Hostname:54.162.79.180, Port:3306
+2022-11-03 13:12:47,159 - basicLogger - INFO - Connecting to DB, Hostname:100.25.12.98, Port:3306
+2022-11-03 13:12:47,261 - basicLogger - INFO - Connecting to DB, Hostname:100.25.12.98, Port:3306
+2022-11-10 10:06:15,888 - basicLogger - INFO - Connecting to DB, Hostname:100.25.12.98, Port:3306
+2022-11-10 10:06:16,191 - basicLogger - INFO - Connecting to DB, Hostname:100.25.12.98, Port:3306
+2022-11-10 10:10:12,367 - basicLogger - INFO - Connecting to DB, Hostname:100.26.246.20, Port:3306
+2022-11-10 10:10:12,461 - basicLogger - INFO - Connecting to DB, Hostname:100.26.246.20, Port:3306
+2022-11-17 11:34:00,505 - basicLogger - INFO - Connecting to DB, Hostname:100.26.246.20, Port:3306
+2022-11-17 11:34:00,622 - basicLogger - INFO - Connecting to DB, Hostname:100.26.246.20, Port:3306
+2022-11-17 11:34:22,355 - basicLogger - INFO - Connecting to DB, Hostname:100.26.246.20, Port:3306
+2022-11-17 11:34:22,470 - basicLogger - INFO - Connecting to DB, Hostname:100.26.246.20, Port:3306
+2022-11-17 11:35:11,687 - basicLogger - INFO - Connecting to DB, Hostname:100.26.246.20, Port:3306
+2022-11-17 11:35:11,800 - basicLogger - INFO - Connecting to DB, Hostname:100.26.246.20, Port:3306
+2022-11-17 12:39:20,097 - basicLogger - INFO - Connecting to DB, Hostname:34.207.61.2, Port:3306
+2022-11-17 12:39:20,433 - basicLogger - INFO - Connecting to DB, Hostname:34.207.61.2, Port:3306
+2022-11-17 12:44:35,152 - basicLogger - INFO - Connecting to DB, Hostname:34.207.61.2, Port:3306
+2022-11-17 12:44:35,277 - basicLogger - INFO - Connecting to DB, Hostname:34.207.61.2, Port:3306
+2022-11-17 12:50:03,542 - basicLogger - INFO - Connecting to DB, Hostname:34.207.61.2, Port:3306
+2022-11-17 12:50:03,667 - basicLogger - INFO - Connecting to DB, Hostname:34.207.61.2, Port:3306
+2022-11-19 19:12:03,651 - basicLogger - INFO - Connecting to DB, Hostname:127.0.0.1, Port:3306
+2022-11-19 19:12:04,167 - basicLogger - INFO - Connecting to DB, Hostname:127.0.0.1, Port:3306
